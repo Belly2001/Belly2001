@@ -76,14 +76,6 @@ Développement du produit **MonitorCostSupplier** (outil interne de suivi des co
 ---
 
 
-## 📊 Mes Stats GitHub
-
-![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=Belly2001&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belly2001&layout=compact&theme=default&hide_border=true&langs_count=8)
-
----
-
 ## 📬 Me contacter
 
 Je suis **actuellement en recherche active d'une alternance** (démarrage dès que possible) sur Toulouse ou en mobilité France.
