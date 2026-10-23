@@ -9,7 +9,7 @@
 ---
 
 
-### 🎓 Mastère Expert Full Stack — Campus Ynov Toulouse (2026 – 2028)
+### 🎓 Mastère Expert en Developpement Full Stack — Campus Ynov Toulouse (2026 – 2028)
 
 - 🚀 **Full Stack avancé** : React, Next.js, APIs REST / GraphQL, microservices
 - 🏗️ **Architecture logicielle** : Clean Architecture, Domain-Driven Design
