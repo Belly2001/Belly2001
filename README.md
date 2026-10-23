@@ -8,7 +8,6 @@
 
 ---
 
-## 🎯 Projet en Cours
 
 ### 🎓 Mastère Expert Full Stack — Campus Ynov Toulouse (2026 – 2028)
 
