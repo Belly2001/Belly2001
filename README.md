@@ -2,7 +2,7 @@
 
 ## 💻 Développeur Full Stack · React / Next.js / Python
 
-**En recherche d'alternance pour mon Mastère Expert Full Stack** à Campus Ynov Toulouse | Spécialisé dans le **développement web moderne** et l'**intégration de l'IA générative** | 1 semaine école / 2 semaines entreprise
+**En recherche active d'alternance pour mon Mastère Expert en Développement Full Stack** à Campus Ynov Toulouse | Spécialisé dans le **développement web moderne** et l'**intégration de l'IA générative** | 1 semaine école / 2 semaines entreprise
 
 📍 Toulouse (Mobilité France) | 📧 [ndangadonbellystar@gmail.com](mailto:ndangadonbellystar@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/don-belly-star-ndanga) | 🌐 [Portfolio](https://donbellystar.vercel.app)
 
