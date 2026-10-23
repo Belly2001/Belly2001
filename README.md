@@ -11,8 +11,6 @@
 
 ### 🎓 Mastère Expert Full Stack — Campus Ynov Toulouse (2026 – 2028)
 
-*Formation Bac+5 (titre RNCP niveau 7) couvrant toute la chaîne du développement d'applications web modernes.*
-
 - 🚀 **Full Stack avancé** : React, Next.js, APIs REST / GraphQL, microservices
 - 🏗️ **Architecture logicielle** : Clean Architecture, Domain-Driven Design
 - ⚙️ **DevOps & cloud natif** : Docker, Kubernetes, CI/CD, GitOps
