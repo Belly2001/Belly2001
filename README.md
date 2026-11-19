@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Don Belly Star NDANGA
+# Don Belly Star NDANGA
 
 ## 💻 Développeur Full Stack · React / Next.js / Python
 
